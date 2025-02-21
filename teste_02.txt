@@ -1,1 +1,2 @@
 Segundo teste para adicionar vários arquivos no "git"
+Testando atualização do repositório CLONE
